@@ -1,0 +1,33 @@
+C:\Users\gimm9\Desktop\Circles\bin\Debug\Circles.exe.config
+C:\Users\gimm9\Desktop\Circles\bin\Debug\Circles.exe
+C:\Users\gimm9\Desktop\Circles\bin\Debug\Circles.pdb
+C:\Users\gimm9\Desktop\Circles\obj\Debug\Circles.csproj.AssemblyReference.cache
+C:\Users\gimm9\Desktop\Circles\obj\Debug\Circles.csproj.SuggestedBindingRedirects.cache
+C:\Users\gimm9\Desktop\Circles\obj\Debug\Circles.Form1.resources
+C:\Users\gimm9\Desktop\Circles\obj\Debug\Circles.Properties.Resources.resources
+C:\Users\gimm9\Desktop\Circles\obj\Debug\Circles.csproj.GenerateResource.cache
+C:\Users\gimm9\Desktop\Circles\obj\Debug\Circles.csproj.CoreCompileInputs.cache
+C:\Users\gimm9\Desktop\Circles\obj\Debug\Circles.exe
+C:\Users\gimm9\Desktop\Circles\obj\Debug\Circles.pdb
+C:\Users\gimm9\Desktop\김민재\대학교\3학년 1학기 (2022)\____PC기반제어프로그래밍\과제\과제-원안에 원이 들어가면 삭제\과제원인원\Circles\obj\Debug\Circles.csproj.AssemblyReference.cache
+C:\Users\gimm9\Desktop\김민재\대학교\3학년 1학기 (2022)\____PC기반제어프로그래밍\과제\과제-원안에 원이 들어가면 삭제\과제원인원\Circles\obj\Debug\Circles.csproj.SuggestedBindingRedirects.cache
+C:\Users\gimm9\Desktop\김민재\대학교\3학년 1학기 (2022)\____PC기반제어프로그래밍\과제\과제-원안에 원이 들어가면 삭제\과제원인원\Circles\obj\Debug\Circles.Form1.resources
+C:\Users\gimm9\Desktop\김민재\대학교\3학년 1학기 (2022)\____PC기반제어프로그래밍\과제\과제-원안에 원이 들어가면 삭제\과제원인원\Circles\obj\Debug\Circles.Properties.Resources.resources
+C:\Users\gimm9\Desktop\김민재\대학교\3학년 1학기 (2022)\____PC기반제어프로그래밍\과제\과제-원안에 원이 들어가면 삭제\과제원인원\Circles\obj\Debug\Circles.csproj.GenerateResource.cache
+C:\Users\gimm9\Desktop\김민재\대학교\3학년 1학기 (2022)\____PC기반제어프로그래밍\과제\과제-원안에 원이 들어가면 삭제\과제원인원\Circles\obj\Debug\Circles.csproj.CoreCompileInputs.cache
+C:\Users\gimm9\Desktop\김민재\대학교\3학년 1학기 (2022)\____PC기반제어프로그래밍\과제\과제-원안에 원이 들어가면 삭제\과제원인원\Circles\obj\Debug\Circles.exe
+C:\Users\gimm9\Desktop\김민재\대학교\3학년 1학기 (2022)\____PC기반제어프로그래밍\과제\과제-원안에 원이 들어가면 삭제\과제원인원\Circles\obj\Debug\Circles.pdb
+C:\Users\gimm9\Desktop\김민재\대학교\3학년 1학기 (2022)\____PC기반제어프로그래밍\과제\과제-원안에 원이 들어가면 삭제\과제원인원\Circles\bin\Debug\Circles.exe.config
+C:\Users\gimm9\Desktop\김민재\대학교\3학년 1학기 (2022)\____PC기반제어프로그래밍\과제\과제-원안에 원이 들어가면 삭제\과제원인원\Circles\bin\Debug\Circles.exe
+C:\Users\gimm9\Desktop\김민재\대학교\3학년 1학기 (2022)\____PC기반제어프로그래밍\과제\과제-원안에 원이 들어가면 삭제\과제원인원\Circles\bin\Debug\Circles.pdb
+C:\Users\gimm9\Desktop\김민재\대학교\3학년 1학기 (2022)\3학년 1학기 과목\____PC기반제어프로그래밍\과제\과제6\과제CinC\Circles\bin\Debug\Circles.exe.config
+C:\Users\gimm9\Desktop\김민재\대학교\3학년 1학기 (2022)\3학년 1학기 과목\____PC기반제어프로그래밍\과제\과제6\과제CinC\Circles\bin\Debug\Circles.exe
+C:\Users\gimm9\Desktop\김민재\대학교\3학년 1학기 (2022)\3학년 1학기 과목\____PC기반제어프로그래밍\과제\과제6\과제CinC\Circles\bin\Debug\Circles.pdb
+C:\Users\gimm9\Desktop\김민재\대학교\3학년 1학기 (2022)\3학년 1학기 과목\____PC기반제어프로그래밍\과제\과제6\과제CinC\Circles\obj\Debug\Circles.csproj.AssemblyReference.cache
+C:\Users\gimm9\Desktop\김민재\대학교\3학년 1학기 (2022)\3학년 1학기 과목\____PC기반제어프로그래밍\과제\과제6\과제CinC\Circles\obj\Debug\Circles.csproj.SuggestedBindingRedirects.cache
+C:\Users\gimm9\Desktop\김민재\대학교\3학년 1학기 (2022)\3학년 1학기 과목\____PC기반제어프로그래밍\과제\과제6\과제CinC\Circles\obj\Debug\Circles.Form1.resources
+C:\Users\gimm9\Desktop\김민재\대학교\3학년 1학기 (2022)\3학년 1학기 과목\____PC기반제어프로그래밍\과제\과제6\과제CinC\Circles\obj\Debug\Circles.Properties.Resources.resources
+C:\Users\gimm9\Desktop\김민재\대학교\3학년 1학기 (2022)\3학년 1학기 과목\____PC기반제어프로그래밍\과제\과제6\과제CinC\Circles\obj\Debug\Circles.csproj.GenerateResource.cache
+C:\Users\gimm9\Desktop\김민재\대학교\3학년 1학기 (2022)\3학년 1학기 과목\____PC기반제어프로그래밍\과제\과제6\과제CinC\Circles\obj\Debug\Circles.csproj.CoreCompileInputs.cache
+C:\Users\gimm9\Desktop\김민재\대학교\3학년 1학기 (2022)\3학년 1학기 과목\____PC기반제어프로그래밍\과제\과제6\과제CinC\Circles\obj\Debug\Circles.exe
+C:\Users\gimm9\Desktop\김민재\대학교\3학년 1학기 (2022)\3학년 1학기 과목\____PC기반제어프로그래밍\과제\과제6\과제CinC\Circles\obj\Debug\Circles.pdb
